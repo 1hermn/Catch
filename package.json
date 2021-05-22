@@ -1,0 +1,22 @@
+{
+  "name": "test_restoran_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amocrm-js": "^2.0.9",
+    "telegraf": "^4.3.0",
+    "universal-analytics": "^0.4.23"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.2",
+    "@babel/node": "^7.14.2",
+    "@babel/preset-env": "^7.14.2"
+  }
+}
